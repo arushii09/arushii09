@@ -5,7 +5,7 @@ I’m passionate about building impactful projects, learning new technologies, a
 
 When I’m not busy with classes or coding, you’ll usually find me experimenting with design, or diving into new hobbies. I enjoy exploring different areas of tech, from programming and problem-solving to designing intuitive user experiences. I’m especially interested in building projects that combine creativity with practical impact.
 
-## Fun Fact
+**`Fun Fact`**
 - I don’t like coffee or tea
 - Hobbies: expoloring tech, building things
 
