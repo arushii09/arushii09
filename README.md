@@ -24,10 +24,16 @@ When I’m not busy with classes or coding, you’ll usually find me experimenti
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arushii09&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arushii09&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arushii09&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arushii09&theme=radical&hide_border=false" width="49%" height="165px" /><br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arushii09&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arushii09&theme=tokyonight" width="49%" height="165px" />
+  
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arushii09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
